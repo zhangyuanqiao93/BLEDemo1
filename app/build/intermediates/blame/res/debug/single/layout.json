@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\Data\\Android\\BLEDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress_indicator.xml",
+        "source": "E:\\Data\\Android\\BLEDemo1\\app\\src\\main\\res\\layout\\progress_indicator.xml"
+    },
+    {
+        "merged": "E:\\Data\\Android\\BLEDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\peripheral_details_characteristic_item.xml",
+        "source": "E:\\Data\\Android\\BLEDemo1\\app\\src\\main\\res\\layout\\peripheral_details_characteristic_item.xml"
+    },
+    {
+        "merged": "E:\\Data\\Android\\BLEDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_peripheral.xml",
+        "source": "E:\\Data\\Android\\BLEDemo1\\app\\src\\main\\res\\layout\\activity_peripheral.xml"
+    },
+    {
+        "merged": "E:\\Data\\Android\\BLEDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scanning_item.xml",
+        "source": "E:\\Data\\Android\\BLEDemo1\\app\\src\\main\\res\\layout\\activity_scanning_item.xml"
+    },
+    {
+        "merged": "E:\\Data\\Android\\BLEDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\peripheral_list_services_header.xml",
+        "source": "E:\\Data\\Android\\BLEDemo1\\app\\src\\main\\res\\layout\\peripheral_list_services_header.xml"
+    },
+    {
+        "merged": "E:\\Data\\Android\\BLEDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\peripheral_list_services_item.xml",
+        "source": "E:\\Data\\Android\\BLEDemo1\\app\\src\\main\\res\\layout\\peripheral_list_services_item.xml"
+    },
+    {
+        "merged": "E:\\Data\\Android\\BLEDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_hrdemo.xml",
+        "source": "E:\\Data\\Android\\BLEDemo1\\app\\src\\main\\res\\layout\\activity_hrdemo.xml"
+    },
+    {
+        "merged": "E:\\Data\\Android\\BLEDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\peripheral_list_characteristic_item.xml",
+        "source": "E:\\Data\\Android\\BLEDemo1\\app\\src\\main\\res\\layout\\peripheral_list_characteristic_item.xml"
+    }
+]

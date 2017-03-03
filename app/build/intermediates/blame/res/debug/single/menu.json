@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Data\\Android\\BLEDemo1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\scanning.xml",
+        "source": "E:\\Data\\Android\\BLEDemo1\\app\\src\\main\\res\\menu\\scanning.xml"
+    },
+    {
+        "merged": "E:\\Data\\Android\\BLEDemo1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\peripheral.xml",
+        "source": "E:\\Data\\Android\\BLEDemo1\\app\\src\\main\\res\\menu\\peripheral.xml"
+    }
+]

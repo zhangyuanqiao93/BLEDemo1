@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\SDK\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\Data\Android\BLEDemo1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_20adbb8c14194ee9cfee9aadddac1b3e5be8cc53\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Data\Android\BLEDemo1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fafbcef2ed439c9dd37fdc14d3a79a70322d287">
+        <dex dex="E:\Data\Android\BLEDemo1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0200ced645d7cd7eed0fdb4b0e063f685eb6b3c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Data\Android\BLEDemo1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b087159ad8a3a9687bc9d4bd2c46ebeb79bbeb9d">
+        <dex dex="E:\Data\Android\BLEDemo1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7bd9f2deb326be4aec1db575fa2742a85834c40a\classes.dex" />
+    </item>
+
+</items>
